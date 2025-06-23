@@ -15,7 +15,9 @@ Lógica de programação aplicada na prática</br>
 Boas práticas de organização de arquivos e pastas</br>
 
 <h1>📸 Preview do Projeto</br></h1>
-<img src = "" ></br>
+<img src = "https://github.com/tharcio09/CodeCraft-Summit-2025/blob/main/CodeCraft%20Summit%202025.PNG" ></br>
+<img src = "https://github.com/tharcio09/CodeCraft-Summit-2025/blob/main/CodeCraft%20Summit%202025%20inscri%C3%A7%C3%A3o.PNG" ></br>
+<img src = "https://github.com/tharcio09/CodeCraft-Summit-2025/blob/main/CodeCraft%20Summit%202025%20confirm.PNG" ></br>
 
 <h1>💻 Tecnologias utilizadas</h1>
 HTML5</br>
